@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=jeRuuHDBgW0&t=175s
 
 # Data
 Please refer to https://data.mendeley.com/datasets/k5hdc9cz7w/1 to download the models
+For OAI MRIs please refer to https://nda.nih.gov/oai/ (please email the website to request the images)
 
 # Paper
 Please cite the following paper:
