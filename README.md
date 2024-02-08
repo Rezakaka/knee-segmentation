@@ -17,4 +17,5 @@ Kakavand, R., Palizi, M., Tahghighi, P. et al. Integration of Swin UNETR and sta
 # Abstract
 Our study aimed to enhance subject-specific knee joint FE modeling by incorporating a semi-automated segmentation algorithm. This segmentation was a 3D Swin UNETR for an initial segmentation of the femur and tibia, followed by a statistical shape model (SSM) adjustment to improve surface roughness and continuity. Five hundred and seven magnetic resonance images (MRIs) from the Osteoarthritis Initiative (OAI) database were used to build and validate the segmentation model. The masks for the femur, tibia and cartilages were performed by skilled users from the Zuse Institute Berlin "F. Ambellan, A. Tack, M. Ehlke, and S. Zachow, “Automated segmentation of knee bone and cartilage combining statistical shape knowledge and convolutional neural networks: Data from the Osteoarthritis Initiative,” Med Image Anal, vol. 52, pp. 109–118, 2019."
 
-
+# Conclusion
+In summary, the integration of Swin UNETR and SSM has demonstrated remarkable effectiveness in the segmentation of MRIs. By harnessing the strengths of both Swin UNETR and SSM, this method not only enhances segmentation precision but also creates suitable shapes and geometries for FE models
